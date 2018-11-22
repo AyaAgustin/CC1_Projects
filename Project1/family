@@ -1,0 +1,127 @@
+<!Doctype html>
+<html>
+
+<style>
+	body{
+		background: url("pink.jpg");
+		background-size: 1600px 800px;
+	}
+
+	#b{
+
+	text-align: center;
+	font-size: 20px;
+	color: white;
+
+	border-style: inset;
+	border: 10px solid BlanchedAlmond;
+	width: 300px;
+	height: 100px;
+	margin: auto;
+	margin-top: 20px;
+	padding: 0.5px 0.2px;
+	border-style: outset;
+
+	}
+	table {
+
+    width: 100%;
+
+	}
+
+	#a{
+	text-align: left;
+	font-size: 20px;
+	color: white;
+	background-color:rgba(130, 102, 73, 0.50);
+	width: 70%;
+	margin: auto;
+	}
+	.foot {
+		margin: center;
+		margin-top: 0px;
+	  position: fixed;
+    left: 10px;
+    bottom: 10px;
+    width: 1600px;
+		height:80px;
+		text-align: left;
+		color:white;
+		background-color:rgba(130, 102, 73, 0.40);
+		font-size: 10px;
+	img-align: left;
+
+	}
+.foot a{
+	text-decoration: none;
+	color:white;
+}
+.img{
+opacity: 0.3;
+	filter: alpha(opacity=50);
+float: left;
+padding: 5px;
+justify-content: space-between;
+float:left;
+
+}
+img:hover {
+	opacity: 1.0;
+	filter: alpha(opacity=100);
+}
+
+
+</style>
+
+<body>
+	<div id="b">
+	<h1>BIOGRAPHY</h1>
+	</div>
+
+	<div id="a">
+	<table>
+	<tr>
+    <td
+	<p><b>Name:</b> Jeremiah D. Agustin</p>
+	<p><b>Age:</b> 49 years old</p>
+	<p><b>Occupation:</b> Supervisor in PhuBia Mining and Operator Mechanic</p>
+	<p><b>Status:</b> Married</p>
+	<p><b>Other:</b> Graduated in Philex Vocational as Valedictorian (Magna)</p>
+  <p>Has 4 siblings namely:</p>
+  <p>Noemi Agustin Lumsec (Married to: Johhny Lumsec)</p>
+  <p>Andrew Agustin (Married to: Argie Aglasi Agustin)</p>
+  <p>Mary-Ann Agustin Padaco (Married to: Arthur Padaco)</p>
+  <pMischiel Agustin Ramos (Married to: Freddie Ramos)</p>
+	</td>
+    <td>
+	<p><b>Name:</b> Salve Agustin</p>
+	<p><b>Age:</b> 39 years old</p>
+	<p><b>Occupation:</b> Housewife and Online Business</p>
+	<p><b>Other:</b></p>
+	<p>Has 7 siblings</p>
+	</td>
+    <td>
+	<p><b>Name:</b> Stephanie Agustin Soliweg</p>
+	<p><b>Age:</b> 23 years old</p>
+	<p><b>Status:</b> Married</p>
+	<p><b>Spouse:</b> Jake Soliweg<br>
+	<p><b>Child/s Name:</b> Kean Carl Soliweg</p>
+  <p>b>Others:</b>Works as branch manager in Cocolife located at Burnham Rizal Park</p>
+	</td>
+  <td>
+  <p><b>Name:</b> Jerome Agustin</p>
+	<p><b>Age:</b> 19 years old</p>
+	<p><b>Status:</b> Single</p>
+	<p><b>School Attending to:</b> Saint Luis University</p>
+  <p>b>Others:</b>Mechanical Engineer, Third year college</p>
+	</td>
+  <td>
+  <p><b>Name:</b> Jeremy Agustin</p>
+	<p><b>Age:</b> 16 years old</p>
+	<p><b>Status:</b> Single</p>
+	<p><b>School Attending to:</b> University of the Cordilleras</p>
+  <p>b>Others:</b>Senior High at University of the Cordilleras</p>				 
+	</td>
+
+</body>
+</html>
